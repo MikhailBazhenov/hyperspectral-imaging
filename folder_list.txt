@@ -1,0 +1,6 @@
+Spectralon
+Dark_current
+Flat_field
+Object_1
+Object_2
+Object_3
